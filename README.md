@@ -6,6 +6,3 @@ Program asks user to type 'list' to list the books out and can select by author,
 
 ## Attributes
 Program was written using Visual Studio
-
-## Information
-All code related to the unsorted and sorted lists were provided by the book and the project incorporates the code without altering it
